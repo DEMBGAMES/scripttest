@@ -184,7 +184,7 @@ else
    local MainSection = MainTab:CreateSection("Main")
    
    Rayfield:Notify({
-      Title = "seifrocio:(",
+      Title = "seifrocio",
       Content = "Very cool gui",
       Duration = 5,
       Image = 13047715178,
