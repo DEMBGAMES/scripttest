@@ -30,7 +30,7 @@ if game.PlaceId == 17649597178 then
    local MainSection = MainTab:CreateSection("Main")
    
    Rayfield:Notify({
-      Title = "You executed the script",
+      Title = "Tumadremegaputtanona",
       Content = "Very cool gui",
       Duration = 5,
       Image = 13047715178,
